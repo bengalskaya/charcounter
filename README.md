@@ -1,2 +1,2 @@
 # charcounter
-(Java Core) An application takes a string and returns the number of unique characters in the string.
+An application takes a string and returns the number of unique characters in the string.
